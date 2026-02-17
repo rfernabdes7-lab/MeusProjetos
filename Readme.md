@@ -13,7 +13,7 @@ Repositório dedicado aos projetos desenvolvidos no curso técnico de Informáti
 Aqui estão os algoritmos que desenvolvi quando comecei a aprender lógica de programação.
 
 
-### ATIVIDADE 1
+### Atividades do 1 ano (2025)
 ```python
 print("É PRECISO FAZER TODOS OS ALGORITIMOS PARA APRENDER")
 print("Renan Fernandes Soares")
@@ -70,13 +70,14 @@ print("Sua idade é", idade)
 
 ---
 
-## 📂 Atividades do 2º Ano (2026)
+### 📂 Atividades do 2º Ano (2026)
 
 ### ☕ Java
 *Aqui vou colocar meus primeiros programas em Java, como classes e estruturas de repetição.*
 
 ### 🌐 HTML
 *Projetos de páginas web e marcação de texto.*
+
 
 
 
