@@ -63,6 +63,25 @@ print("seu nome é ", nome)
 idade = int(input("DIGITE SUA IDADE: "))
 print("Sua idade é", idade)
 
+for i in range(5):
+    q=int(input("numero :"))
+    if q>=0:
+        print("esse número é positivo")
+    else:
+        print("esse número é negativo")
+
+
+for i in range(5):
+    a=int(input("coloque um número"))
+    if (a%2==0):
+        print("o numero é par")
+    else:
+        print("o numero é impar")
+
+
+
+
+
 ````
 
 
@@ -77,6 +96,7 @@ print("Sua idade é", idade)
 
 ### 🌐 HTML
 *Projetos de páginas web e marcação de texto.*
+
 
 
 
