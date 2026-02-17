@@ -63,7 +63,7 @@ print("seu nome é ", nome)
 idade = int(input("DIGITE SUA IDADE: "))
 print("Sua idade é", idade)
 
-
+````
 
 
 
@@ -77,6 +77,7 @@ print("Sua idade é", idade)
 
 ### 🌐 HTML
 *Projetos de páginas web e marcação de texto.*
+
 
 
 
