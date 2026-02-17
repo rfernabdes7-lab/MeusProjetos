@@ -64,3 +64,18 @@ idade = int(input("DIGITE SUA IDADE: "))
 print("Sua idade é", idade)
 
 
+
+
+
+
+---
+
+## 📂 Atividades do 2º Ano (2026)
+
+### ☕ Java
+*Aqui vou colocar meus primeiros programas em Java, como classes e estruturas de repetição.*
+
+### 🌐 HTML
+*Projetos de páginas web e marcação de texto.*
+
+
