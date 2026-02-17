@@ -68,16 +68,17 @@ print("Sua idade é", idade)
 
 
 
-(Aqui termina o seu código de Python...)
-print("Sua idade é", idade)
-```  <-- (Essas 3 crases fecham o bloco escuro do Python)
-
 ---
 
 ## 📂 Atividades do 2º Ano (2026)
 
 ### ☕ Java
 *Aqui vou colocar meus primeiros programas em Java, como classes e estruturas de repetição.*
+
+### 🌐 HTML
+*Projetos de páginas web e marcação de texto.*
+
+
 
 
 
