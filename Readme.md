@@ -9,6 +9,10 @@ Repositório dedicado aos projetos desenvolvidos no curso técnico de Informáti
 
 ## 💻 Atividades de Fixação
 
+📂 Atividades do 1º Ano (Técnico em Informática)
+Aqui estão os algoritmos que desenvolvi quando comecei a aprender lógica de programação.
+
+
 ### ATIVIDADE 1
 ```python
 print("É PRECISO FAZER TODOS OS ALGORITIMOS PARA APRENDER")
@@ -58,4 +62,5 @@ print("seu nome é ", nome)
 
 idade = int(input("DIGITE SUA IDADE: "))
 print("Sua idade é", idade)
+
 
