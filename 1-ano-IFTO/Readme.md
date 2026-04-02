@@ -1,5 +1,5 @@
 # Meus exercícios - 1 Ano IFTO
-Repositório dedicado aos projetos desenvolvidos no curso técnico de Informática.
+Repositório dedicado as atividades desenvolvidas no curso técnico de Informática.
 
 ## 📚 Matéria
 * Lógica de Programação
