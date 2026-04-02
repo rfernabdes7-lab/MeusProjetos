@@ -1,7 +1,7 @@
-# Meus Projetos - IFTO
+# Meus exercícios - 1 Ano IFTO
 Repositório dedicado aos projetos desenvolvidos no curso técnico de Informática.
 
-## 📚 Tecnologias
+## 📚 Matéria
 * Lógica de Programação
 * Python
 
@@ -88,14 +88,6 @@ for i in range(5):
 
 
 ---
-
-### 📂 Atividades do 2º Ano (2026)
-
-### ☕ Java
-*Aqui vou colocar meus primeiros programas em Java, como classes e estruturas de repetição.*
-
-### 🌐 HTML
-### 🌐 [Meu Site de Teste](./site.html)
 
 
 
